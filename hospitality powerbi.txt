@@ -1,0 +1,11 @@
+first i imported the needed files from codebasics website
+Data transformation using power query
+and then according to the need of analysis i transform the data using power query and loaded the data
+DAX-Data Analysis Expression function helps to alter the table according to the analysis 
+building metrics by DAX
+Using DAX created many  key measures which gives more insights
+filtering can be done by days,week,month,category and so on by slicer chart
+according to the business need i set the trend analysis by line chart
+BASED ON  DBRM (Daily Booked room nights)i set the target DSRN(Daily Sellabale room nights) by gauge chart
+And final insights are may month revenue is better than next two .since india has holiday trips on may month stakeholder should keenly observe the delhi city bcz of high no show rates
+and so many cancellation done in makeyoutrip online platform stakeholder should look into that and give discounts, coupens and so many insights are there in my dashboard .
